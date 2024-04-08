@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @silvioledo2
-- 👀 I’m interested in language learning in general like English, Arabic, Japanese, French, and Computer Language like Java.
-- 🌱 I’m currently learning Java, Hebrew, Arabic.
+- 👀 I’m interested in language learning in general like English, Japanese, French, and Computer Language like Java.
+- 🌱 I’m currently learning Java, English, Hebrew.
 - 💞️ I’m looking to collaborate on projects related to Java soon.
 - 📫 How to reach me at silvioledo2@gmail.com and www.silvioledo.com.br (Available soon).
 
